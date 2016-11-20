@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: simple
+Bundle-Vendor: Harald Weiner
+Bundle-Version: 2.2.1.qualifier
+Bundle-SymbolicName: simple; singleton:=true
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: lib/log4j-1.2.16.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
